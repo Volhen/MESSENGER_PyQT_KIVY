@@ -1,0 +1,11 @@
+<RCC>
+  <qresource prefix="img">
+    <file>register.png</file>
+    <file>register_hover.png</file>
+    <file>register_press.png</file>
+    <file>btn.jpg</file>
+    <file>hover_btn.jpg</file>
+    <file>push_btn.png</file>
+    <file>log.png</file>
+  </qresource>
+</RCC>

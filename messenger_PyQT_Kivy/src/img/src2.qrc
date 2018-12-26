@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="img">
+    <file>btn_reg.png</file>
+    <file>btn_reg_hover.png</file>
+    <file>btn_reg_press.png</file>
+    <file>regi_win.png</file>
+  </qresource>
+</RCC>
